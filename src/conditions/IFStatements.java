@@ -6,6 +6,8 @@ public class IFStatements {
 		int age = 19;
 		if(age > 18) {
 			System.out.println("Major");
+		} else {
+			System.out.println("Minor");
 		}
 	}
 
